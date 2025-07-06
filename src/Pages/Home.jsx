@@ -2,8 +2,10 @@ import React from 'react';
 
 const Home = () => {
     return (
-        <div>
-            
+        <div className=' w-full h-dvh bg-base-200'>
+            <div>
+                
+            </div>
         </div>
     );
 };
