@@ -1,12 +1,13 @@
-import React from 'react';
+import React from "react";
 
 const About = () => {
-    return (
-        <>
-        <div className=' w-full h-dvh bg-base-200'>
-        </div>
-         </>
-    );
+  return (
+    <>
+      <div className=" w-full h-dvh bg-base-200">
+        
+      </div>
+    </>
+  );
 };
 
 export default About;
