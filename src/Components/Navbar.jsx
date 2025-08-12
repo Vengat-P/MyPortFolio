@@ -50,7 +50,7 @@ const Navbar = () => {
               </li>
               <li>
                 <Link
-                  to="/fitnesslogs"
+                  to="/projects"
                   className="py-2 px-3 hover:bg-primary hover:text-white"
                 >
                   Projects
@@ -58,7 +58,7 @@ const Navbar = () => {
               </li>
               <li>
                 <Link
-                  to="/nutritionlogs"
+                  to="/skills"
                   className=" py-2 px-3 hover:bg-primary hover:text-white"
                 >
                   About me
@@ -94,10 +94,10 @@ const Navbar = () => {
             </li>
             <li>
               <Link
-                to="/about"
+                to="/skills"
                 className="block py-2 px-3  hover:text-primary  md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
               >
-                About me
+                Skills
               </Link>
             </li>
             <li>
